@@ -1,5 +1,5 @@
 ## Primebook: Streamline Your Event Management
-![Portfolio Banner](https://github.com/RJohnPaul/QwickPizza/blob/2a5cd7d304a9a77a97a93f2a7c988770f979d9d9/banner_pizza.png)
+![Portfolio Banner](https://github.com/RJohnPaul/Primebook/blob/f79a24d6203ffc3f37f3a20a965d307da4797b30/Banner_Prime.png)
 ## A event-management web app with Clerk Auth ,MongoDB, Typescript ,Stripe Payments, TailwindCSS
 
 
