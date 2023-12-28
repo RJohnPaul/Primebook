@@ -4,6 +4,8 @@
       <img src="https://github.com/RJohnPaul/Primebook/blob/f79a24d6203ffc3f37f3a20a965d307da4797b30/Banner_Prime.png" alt="Project Banner">
   <br />
 </div>
+
+
 ## A event-management web app with Clerk Auth ,MongoDB, Typescript ,Stripe Payments, TailwindCSS
 
 
